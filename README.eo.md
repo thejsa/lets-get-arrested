@@ -12,7 +12,7 @@ while (1) {
 
 Rilataj raportaĵoj:
 
-- (Japano) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
+- (Japano) [https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html](https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html)
 - (Anglo) [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/)
 
 Do ĉi tio estas rigardata kiel "krimo" en Japanio. Do ni estu krimuloj kaj estu arestitaj!
@@ -21,7 +21,7 @@ Do ĉi tio estas rigardata kiel "krimo" en Japanio. Do ni estu krimuloj kaj estu
 
 ## Kiel akiri arestita
 
-Estas facila. Forku ĉi tiun projekton kaj branĉu ĝin kiel gh-pages. Ĉio estas farita. Estus pli efika dividi la url "http://youraccount.github.io/lets-get-arrested" en Socia amaskomunikilaro.
+Estas facila. Forku ĉi tiun projekton kaj branĉu ĝin kiel gh-pages. Ĉio estas farita. Estus pli efika dividi la url "https://youraccount.github.io/lets-get-arrested" en Socia amaskomunikilaro.
 
 
 ## Ne arestita?

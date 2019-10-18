@@ -14,7 +14,7 @@ while (1) {
 
 খবরে প্রচারিত এ সম্পর্কিত সংবাদঃ
 
-- (Japanese) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
+- (Japanese) [https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html](https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html)
 - (English) [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/)
 
 তাহলে জাপানে এটি একটি অপরাধ। চলুন আমরাও সবাই অপরাধী হয় এবং পুলিশ এর হাতে বন্দি হয়।
@@ -23,7 +23,7 @@ while (1) {
 
 ## How to get arrested
 
-এটা খুবই সহজ ব্যাপার। এই প্রোজেক্ট টি fork করুন এবং gh-pages ব্রাঞ্চ তৈরি করুন। এটা আরও ভালো হয় যদি আপনার url "http://youraccount.github.io/lets-get-arrested" টা সামাজিক যোগাযোগ মাধ্যমে ছড়িয়ে দেন।
+এটা খুবই সহজ ব্যাপার। এই প্রোজেক্ট টি fork করুন এবং gh-pages ব্রাঞ্চ তৈরি করুন। এটা আরও ভালো হয় যদি আপনার url "https://youraccount.github.io/lets-get-arrested" টা সামাজিক যোগাযোগ মাধ্যমে ছড়িয়ে দেন।
 
 ## Not arrested?
 

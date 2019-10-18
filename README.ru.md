@@ -12,7 +12,7 @@ while (1) {
 
 Cсылки на новость:
 
-- (Japanese) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
+- (Japanese) [https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html](https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html)
 - (English) [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/)
 
 В Японии это называется "уголовным преступлением". Так давайте станем уголовниками и пойдём под суд!
@@ -21,7 +21,7 @@ Cсылки на новость:
 
 ## Как пойти под суд
 
-Это просто. Форкните этот проект и выложите его как github pages. Это всё. Будет более эффективно если ещё поделиться ссылкой вида "http://youraccount.github.io/lets-get-arrested" в соцсетях.
+Это просто. Форкните этот проект и выложите его как github pages. Это всё. Будет более эффективно если ещё поделиться ссылкой вида "https://youraccount.github.io/lets-get-arrested" в соцсетях.
 
 ## Не арестовали?
 

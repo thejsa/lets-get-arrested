@@ -12,7 +12,7 @@ while (1) {
 
 Gerelateerde nieuwsartikelen:
 
-- (Japans) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
+- (Japans) [https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html](https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html)
 - (Engels) [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/)
 
 Dus dit wordt beschouwd als een "misdaad" in Japan. Dus laten we criminelen zijn en gearresteerd worden!
@@ -21,7 +21,7 @@ Geniet van het criminelen leven!
 
 ## Hoe gearresteerd te worden
 
-Het is makkelijk. Fork dit project en vertak het als gh-pagina's. Het is allemaal klaar. Het zou effectiever zijn om de URL "http://youraccount.github.io/lets-get-arrested" op sociale media te delen.
+Het is makkelijk. Fork dit project en vertak het als gh-pagina's. Het is allemaal klaar. Het zou effectiever zijn om de URL "https://youraccount.github.io/lets-get-arrested" op sociale media te delen.
 
 ## Niet gearresteerd?
 

@@ -11,7 +11,7 @@ while (1) {
 ```
 
 相關新聞：
-[https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
+[https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html](https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html)
 
 因此這在日本被視為“犯罪”。那麼我們也一起成為罪犯被捕吧！
 
@@ -19,7 +19,7 @@ while (1) {
 
 ## 被捕方法
 
-非常簡單，只要 Fork 本項目，並建立一個新的 gh-pages Branch。結束。當然如果分享 "http://你的賬戶.github.io/lets-get-arrested" 這個 URL 到各大 SNS 平台上口味更佳。
+非常簡單，只要 Fork 本項目，並建立一個新的 gh-pages Branch。結束。當然如果分享 "https://你的賬戶.github.io/lets-get-arrested" 這個 URL 到各大 SNS 平台上口味更佳。
 
 ## 總是沒有警察來逮捕你？
 
